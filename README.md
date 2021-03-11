@@ -10,7 +10,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 有宠物且频繁出差、无法及时照顾宠物的家庭
 
 三、具体方案
-功能：
+功能及实现方案：
 1、自动喂食：定时、定量、分类添加食物。在喂食机中设置多个食物槽，分类放置不同食物比如谷物、颗粒混合宠物粮、药物等。可以通过APP设置投喂时间与量。
 
 2、手动喂食：手机App远程控制添加食物。
